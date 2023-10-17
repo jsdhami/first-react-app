@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+         <b> Learn React with <a href="https://dev.jsdhami.com.np/"><h2>Janak</h2></a> </b>
         </a>
       </header>
     </div>
